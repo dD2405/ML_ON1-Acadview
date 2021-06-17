@@ -1,0 +1,41 @@
+{
+	"id": "pro_e9ff5933-2d72-4bd6-a15d-d358d9b49dd0",
+	"Type": "product",
+	"IsDeleted": false,
+	"ProductName": "Pears Fresh Renewal Facewash",
+	"ProjectID": "crystalgaze",
+	"Format": "face cleansing",
+	"Region": "SA",
+	"Brand": "Ponds",
+	"Author": "Neha.Mawatwal@unilever.com",
+	"Introduction": "Relaunch of Pears Fresh Renewal Facewash.",
+	"LaunchDate": "2020",
+	"Technology": "",
+	"ClaimsType": [{
+		"TypeName": "BOP"
+	}, {
+		"TypeName": "FOP"
+	}],
+	"Languages": ["Default", "Spanish"],
+	"Formula": "Kravitz",
+	"PLMCode": "11814651_F",
+	"CSDType": "Mastertext",
+	"CSDStatus": "Publish",
+	"IntroAttachments": [{
+		"id": "pro_e9ff5933-2d72-4bd6-a15d-d358d9b49dd0",
+		"AttachmentName": "C:\\Users\\neha.mawatwal\\Desktop\\20058005_Pears-Facewash-Fresh_Renewal-Tube-60g-01.jpg",
+		"Container": "singledoc"
+	}, {
+		"id": null,
+		"AttachmentName": "C:\\Users\\neha.mawatwal\\Desktop\\PEARS FRESH & GENLE CLEANSING FACE WASH CUC.pdf",
+
+		"Container": "singledoc"
+	}],
+	"LgModifiedBy": "Neha.Mawatwal@unilever.com",
+	"LgModifiedOn": "27-04-2020 13:04:31",
+	"_rid": "GVcAANIeIQRSVR8AAAAAAA==",
+	"_self": "dbs/GVcAAA==/colls/GVcAANIeIQQ=/docs/GVcAANIeIQRSVR8AAAAAAA==/",
+	"_etag": "\"69008a58-0000-0d00-0000-5ea6dab80000\"",
+	"_attachments": "attachments/",
+	"_ts": 1587993272
+}
